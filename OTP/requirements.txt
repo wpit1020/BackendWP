@@ -1,0 +1,6 @@
+fastapi
+pyotp
+random
+pydantic
+fastapi-mail
+twilio
